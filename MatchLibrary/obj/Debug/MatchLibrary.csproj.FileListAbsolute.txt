@@ -1,0 +1,6 @@
+C:\Users\Влёна\source\repos\Экзамен\MatchLibrary\bin\Debug\MatchLibrary.dll
+C:\Users\Влёна\source\repos\Экзамен\MatchLibrary\bin\Debug\MatchLibrary.pdb
+C:\Users\Влёна\source\repos\Экзамен\MatchLibrary\obj\Debug\MatchLibrary.csproj.AssemblyReference.cache
+C:\Users\Влёна\source\repos\Экзамен\MatchLibrary\obj\Debug\MatchLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Влёна\source\repos\Экзамен\MatchLibrary\obj\Debug\MatchLibrary.dll
+C:\Users\Влёна\source\repos\Экзамен\MatchLibrary\obj\Debug\MatchLibrary.pdb
